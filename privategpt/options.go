@@ -1,10 +1,10 @@
 package privategpt
 
 import (
+	"github.com/rajaiswal/langchaingo-llm-privategpt/privategpt/internal/privategptclient"
 	"log"
 	"net/http"
 	"net/url"
-	"privateGPTGo/llms/privategpt/internal/privategptclient"
 )
 
 type options struct {

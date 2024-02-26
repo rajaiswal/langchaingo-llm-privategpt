@@ -3,7 +3,7 @@ package privategpt
 import (
 	"context"
 	"errors"
-	"privateGPTGo/llms/privategpt/internal/privategptclient"
+	"github.com/rajaiswal/langchaingo-llm-privategpt/privategpt/internal/privategptclient"
 
 	"github.com/tmc/langchaingo/callbacks"
 	"github.com/tmc/langchaingo/llms"
