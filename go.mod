@@ -1,6 +1,6 @@
 module github.com/rajaiswal/langchaingo-llm-privategpt
 
-go 1.21.5
+go 1.21
 
 require (
 	github.com/go-faster/errors v0.7.1
